@@ -27,7 +27,7 @@ sand = {
 gravel = {
     "brand": "Suez Gravel",
     "strength": "10.5 N",
-    "quantity": 5,
+    "quantity": 10,
     "unit_price_per_bag": 35
 }
 
